@@ -29,3 +29,5 @@ const List<String> cryptoList = [
 ];
 
 class CoinData {}
+
+const kAPIkey = '7648975C-86B0-4A09-BCB8-8039F424D470';
